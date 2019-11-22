@@ -5,7 +5,7 @@
 **js类型转换表格:**
 
 |原值|字符串|数字|布尔值|对象|
-|:---:|---|---|---|---|---|
+:-: | :-: | :-: | :-: | :-:
 |undefined|"undefined"|NaN|false|throws TypeError|
 |null|"null"|0|false|throws TypeError|
 |true|"true"|1||new Boolean(true)|
